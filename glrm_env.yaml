@@ -1,0 +1,4 @@
+name: glrm_env
+channels:
+  - defaults
+prefix: /Users/puccini/opt/miniconda3/envs/glrm_env
